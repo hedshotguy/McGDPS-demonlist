@@ -1,27 +1,28 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mcdonda",
+        "link": "https://www.youtube.com/channel/UCiDKMuw_QWwBn7dCNGuRfhQ"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Scattered",
+        "link": "https://www.youtube.com/"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Hedshotguy",
+        "link": "https://www.youtube.com/@hedshotboi9530"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "No_Internet",
+        "link": "https://www.youtube.com/"
     },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
+        {
+        "role": "helper",
+        "name": "Skechy",
+        "link": "https://www.youtube.com/"
+    },
+
 ]
