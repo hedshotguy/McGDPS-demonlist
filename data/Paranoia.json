@@ -1,13 +1,37 @@
 {
     "id": 1727,
     "name": "Paranoia",
-    "author": "Tucosifo",
+    "author": "Tornabro",
     "creators": [],
-    "verifier": "Tucosifo",
-    "verification": "https://www.youtube.com/watch?v=3gHZlYIKAZg",
+    "verifier": "?",
+    "verification": "https://www.youtube.com/watch?v=CUnBDcQ4aeA&list=PLY9aHOJbltWbh7WgcaZdg31rge7BC4Lx5&index=26",
     "percentToQualify": 52,
     "password": "Free to copy",
     "records": [
+        {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=8J1L10xNdfc",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Decin",
+"link": "https://youtu.be/v-WaZidN0uk?si=ms9q1s_rjPEQuXon&t=145",
+"percent": 100,
+"hz": "144"
+},
+        {
+"user": "Leaffty",
+"link": "https://youtu.be/yDW6Uqf7MNg",
+"percent": 100%,
+"hz": "75"
+},
+        {
+"user": "tucosifo",
+"link": "https://youtu.be/3gHZlYIKAZg",
+"percent": 100,
+"hz": "240"
+}
 
     ]
 }
