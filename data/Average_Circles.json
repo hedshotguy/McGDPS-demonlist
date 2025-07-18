@@ -8,6 +8,30 @@
     "percentToQualify": 55,
     "password": "Free to copy",
     "records": [
+              {
+            "user": "Lonhi",
+            "link": "https://www.youtube.com/watch?v=sZ3zDkwBf5U",
+            "percent": 100,
+            "hz": ""
+        },
+              {
+            "user": "Gelforce",
+            "link": "https://www.youtube.com/watch?v=83ySa44Kyh0",
+            "percent": 100,
+            "hz": "288"
+        },
+              {
+            "user": "Tornabro",
+            "link": "https://www.youtube.com/watch?v=y1wcj_ZBy9s",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+"user": "Decin",
+"link": "https://www.youtube.com/watch?v=dVRx-5NeFoA",
+"percent": 100,
+"hz": "240"
+}
 
     ]
 }
