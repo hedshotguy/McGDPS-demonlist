@@ -8,6 +8,18 @@
     "percentToQualify": 52,
     "password": "Free to copy",
     "records": [
+        {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=cmxG4CogskU",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Decin",
+"link": "https://www.youtube.com/watch?v=RL8dKzqHP44 ",
+"percent": 100,
+"hz": "144"
+}
 
     ]
 }
