@@ -8,6 +8,18 @@
     "percentToQualify": 55,
     "password": "Free to copy",
     "records": [
+        {
+"user": "hedshot"
+"link": "https://www.youtube.com/watch?v=kTWu-xhbtjo"
+"percent": 100
+"hz": "240"
+},
+        {
+"user": "Lonhi",
+"link": "https://www.youtube.com/watch?v=tU_g7G0MAIc",
+"percent": 100,
+"hz": "240*"
+}
 
     ]
 }
