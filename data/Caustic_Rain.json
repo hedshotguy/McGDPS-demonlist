@@ -1,0 +1,25 @@
+{
+    "id": 1623,
+    "name": "Caustic Rain",
+    "author": "Scattered",
+    "creators": [],
+    "verifier": "Scattered",
+    "verification": "https://www.youtube.com/watch?v=D--u3_qBGS8",
+    "percentToQualify": 45,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=MqHaogOdul4",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Decin",
+"link": "https://www.youtube.com/watch?v=smuRxYkpTRk ",
+"percent": 100,
+"hz": "240"
+}
+
+    ]
+}
