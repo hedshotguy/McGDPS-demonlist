@@ -8,6 +8,24 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+"user": "hedshot"
+"link": "https://www.youtube.com/watch?v=3kwvbkdT12A"
+"percent": 100
+"hz": "240"
+},
+        {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=HEiXx-KLCPo",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Decin",
+"link": "https://www.youtube.com/watch?v=sCyzNvo8HUA ",
+"percent": 100,
+"hz": "144"
+}
 
     ]
 }
