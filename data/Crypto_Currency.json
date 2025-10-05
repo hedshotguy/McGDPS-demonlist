@@ -8,6 +8,30 @@
     "percentToQualify": 33,
     "password": "Free to copy",
     "records": [
+        {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=PAmm-dDDO40",
+"percent": 100,
+"hz": "240"
+},
+{
+"user": "NoInternet",
+"link": "https://youtu.be/B9Be8UQxeAk",
+"percent": 100%,
+"hz": "240"
+},
+        {
+"user": "Decin",
+"link": "https://youtu.be/5cr6nlOwFkQ?si=JOySrPJzxuVH95Kl",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Scattered",
+"link": "https://youtu.be/5i0T-9ZVzac",
+"percent": 100,
+"hz": "300"
+}
 
     ]
 }
