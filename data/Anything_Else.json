@@ -8,6 +8,30 @@
     "percentToQualify": 50,
     "password": "Free to copy",
     "records": [
+                {
+"user": "Gelforce",
+"link": "https://www.youtube.com/watch?v=83ySa44Kyh0",
+"percent": 100,
+"hz": "288"
+},
+        {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=-kpeOqJolWU",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w9pVnm78Fe4",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Decin",
+"link": "https://youtu.be/6YeGahwpQwg?si=yR_VMnxopC83Y_OO&t=56",
+"percent": 100,
+"hz": "240"
+}
 
     ]
 }
