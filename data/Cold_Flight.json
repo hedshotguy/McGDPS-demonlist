@@ -8,6 +8,18 @@
     "percentToQualify": 60,
     "password": "Free to copy",
     "records": [
+        {
+"user": "Decin",
+"link": "https://youtu.be/grZ59niJS80?si=067e2_ne9kotrLDg",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Scattered",
+"link": "https://youtu.be/Y0Bl0DNwRMQ",
+"percent": 100,
+"hz": "240"
+}
 
     ]
 }
