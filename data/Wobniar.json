@@ -8,6 +8,24 @@
     "percentToQualify": 47,
     "password": "Free to copy",
     "records": [
+                {
+"user": "Gelforce",
+"link": "https://www.youtube.com/watch?v=83ySa44Kyh0",
+"percent": 100,
+"hz": "288"
+},
+                        {
+"user": "hedshot",
+"link": "https://youtu.be/ZUF5mCK34E4",
+"percent": 100,
+"hz": "360"
+},
+        {
+"user": "Tornabro",
+"link": "https://youtu.be/p_bcBIhrTdQ?t=103",
+"percent": 100,
+"hz": "240"
+}
 
     ]
 }
