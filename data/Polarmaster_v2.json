@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w9pVnm78Fe4",
+"percent": 100,
+"hz": "300"
+},
+                {
+"user": "Hedshot",
+"link": "https://www.youtube.com/watch?v=9WqbJHDF8xM",
+"percent": 100,
+"hz": "165"
+}
     ]
 }
