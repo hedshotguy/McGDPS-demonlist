@@ -8,5 +8,35 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+                {
+"user": "PG2K",
+"link": "",
+"percent": 100,
+"hz": "240"
+},
+                        {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=-t-arcPVeG0",
+"percent": 100,
+"hz": "360"
+},
+                                {
+"user": "Hedshot",
+"link": "https://www.youtube.com/watch?v=SP9Cu0X-T7A",
+"percent": 100,
+"hz": "360"
+},
+                                        {
+"user": "Scattered",
+"link": "https://youtu.be/rlKVVp4HH4c",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Decin",
+"link": "https://youtu.be/ZW5C7Fq9AII?si=FLZb8hgmb6hRz0GC&t=51",
+"percent": 100,
+"hz": "240"
+}
     ]
 }
