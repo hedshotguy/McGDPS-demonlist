@@ -4,9 +4,27 @@
     "author": "Tucosifo",
     "creators": [],
     "verifier": "Tucosifo",
-    "verification": "https://youtu.be/cKEHT4yemok",
+    "verification": "https://youtu.be/diklx6d1t4k?si=8byQMrxNE-ONmkCa",
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+              {
+"user": "Hedshot",
+"link": "https://www.youtube.com/watch?v=hEnSx7LEl0A",
+"percent": 100,
+"hz": "360"
+},
+                      {
+"user": "Scattered",
+"link": "https://youtu.be/cKEHT4yemok",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Leaffty",
+"link": "https://youtu.be/OKyU11u0e7Q",
+"percent": 100,
+"hz": "75"
+}
     ]
 }
