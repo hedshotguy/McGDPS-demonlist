@@ -8,5 +8,29 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+"user": "madeline",
+"link": "https://www.youtube.com/watch?v=EAlxrx6mNF8",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Leaffty",
+"link": "https://youtu.be/9BQjtj21TYs",
+"percent": 100%,
+"hz": "75"
+},
+        {
+"user": "hedshot",
+"link": "https://youtu.be/tIZCee8AZvw",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w9pVnm78Fe4",
+"percent": 100,
+"hz": "240"
+}
     ]
 }
