@@ -1,0 +1,24 @@
+{
+    "id": 1967,
+    "name": "Waboo Approved",
+    "author": "Leaffty",
+    "creators": [],
+    "verifier": "Leaffty",
+    "verification": "https://www.youtube.com/watch?v=w9pVnm78Fe4",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w9pVnm78Fe4",
+"percent": 100,
+"hz": "300"
+},
+      {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=MqHaogOdul4",
+"percent": 100,
+"hz": "240"
+}
+    ]
+}
