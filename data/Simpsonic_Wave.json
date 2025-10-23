@@ -8,6 +8,18 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+"user": "Spooxer",
+"link": "https://youtu.be/AI3JZyU9flc",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=aVazLraJ8ns",
+"percent": 100,
+"hz": "240"
+}
 
     ]
 }
