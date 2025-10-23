@@ -1,0 +1,36 @@
+{
+    "id": 1936,
+    "name": "The Cookie Crumbles",
+    "author": "NoInternet",
+    "creators": [],
+    "verifier": "NoInternet",
+    "verification": "https://youtu.be/kGvujobLhJE?si=BK-mr8ucK7pjRYYS",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w9pVnm78Fe4",
+"percent": 100,
+"hz": "300"
+},
+      {
+"user": "LuhFrosted",
+"link": "https://youtu.be/kGvujobLhJE?si=BK-mr8ucK7pjRYYS",
+"percent": 100,
+"hz": "165"
+},
+      {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=MqHaogOdul4",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Leaffty",
+"link": "https://youtu.be/40ihp-us6sg",
+"percent": 100,
+"hz": "75"
+}
+    ]
+}
