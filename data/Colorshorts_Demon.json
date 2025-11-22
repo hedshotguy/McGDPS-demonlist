@@ -1,0 +1,24 @@
+{
+    "id": 2470,
+    "name": "Colorshorts Demon",
+    "author": "Spooxer",
+    "creators": ["Spooxer","NoInternet","Mashi","Rezzi"],
+    "verifier": "Spooxer",
+    "verification": "https://youtu.be/k_pcZg_kkX8?si=Skvy_ZcWCUr3tQob",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "NoInternet",
+"link": "https://youtu.be/k_pcZg_kkX8?si=Skvy_ZcWCUr3tQob",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Scattered",
+"link": "https://youtu.be/-UobL6l4YTw",
+"percent": 100,
+"hz": "240"
+}
+    ]
+}
