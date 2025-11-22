@@ -1,0 +1,24 @@
+{
+    "id": 2245,
+    "name": "LSD",
+    "author": "Pati",
+    "creators": [],
+    "verifier": "Pati",
+    "verification": "https://www.youtube.com/watch?v=UqNSsCRiGhw",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "Hedshot",
+"link": "https://www.youtube.com/watch?v=UqNSsCRiGhw",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=aVazLraJ8ns",
+"percent": 100,
+"hz": "240"
+}
+    ]
+}
