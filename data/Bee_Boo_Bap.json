@@ -1,0 +1,36 @@
+{
+    "id": 1011,
+    "name": "Bee Boo Bap",
+    "author": "Scattered",
+    "creators": [],
+    "verifier": "Scattered",
+    "verification": "https://www.youtube.com/watch?v=DCHxhRFr_YA",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=hEnSx7LEl0A",
+"percent": 100,
+"hz": "360"
+},
+            {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=7v8N31G69FY",
+"percent": 100,
+"hz": "360"
+},
+      {
+"user": "LuhFrosted",
+"link": "https://www.youtube.com/watch?v=EMPtBAIKgmM",
+"percent": 100,
+"hz": ""
+},
+      {
+"user": "Leaffty",
+"link": "https://youtu.be/v7dDWBZa-yU",
+"percent": 100,
+"hz": "75"
+}
+    ]
+}
