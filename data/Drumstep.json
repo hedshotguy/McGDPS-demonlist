@@ -1,0 +1,43 @@
+{
+    "id": 1936,
+    "name": "Drumstep",
+    "author": "Muzyslucham",
+    "creators": [],
+    "verifier": "Muzyslucham",
+    "verification": "https://www.youtube.com/watch?v=2e3LWQkeVyc",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "LuhFrosted",
+"link": "https://www.youtube.com/watch?v=2e3LWQkeVyc",
+"percent": 100,
+"hz": ""
+},
+            {
+"user": "Hedshot",
+"link": "https://www.youtube.com/watch?v=Kawi_1mS9U0",
+"percent": 100,
+"hz": "360"
+},
+      {
+"user": "Leaffty",
+"link": "https://youtu.be/A3H3qSxv2nE",
+"percent": 100,
+"hz": "75"
+},
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w6PHGWXjgpA",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Tornabro",
+"link": "https://youtu.be/s0xHz4eu-Bs?t=80",
+"percent": 100,
+"hz": "240"
+}
+
+    ]
+}
