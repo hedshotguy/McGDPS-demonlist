@@ -1,0 +1,24 @@
+{
+    "id": 1936,
+    "name": "Unnamed 335",
+    "author": "Scattered",
+    "creators": [],
+    "verifier": "Scattered",
+    "verification": "https://youtu.be/Ylg3qxP3k50",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+            {
+"user": "hedshot",
+"link": "https://youtu.be/Pdz31Wf3XUk",
+"percent": 100,
+"hz": "360"
+},
+      {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=0UmZq_qjqyY",
+"percent": 100,
+"hz": "240"
+}
+    ]
+}
