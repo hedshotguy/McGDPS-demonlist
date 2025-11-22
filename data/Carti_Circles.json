@@ -1,0 +1,31 @@
+{
+    "id": 2357,
+    "name": "Carti Circles",
+    "author": "TeamMeatBeaters",
+    "creators": ["Luhfrosted","Mcdonda","discsy","Tapacid"],
+    "verifier": "????",
+    "verification": "https://youtu.be/h4h2EY3EqbA?si=VxZnVYXe5hhkg-FK",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "NoInternet",
+"link": "https://youtu.be/h4h2EY3EqbA?si=VxZnVYXe5hhkg-FK",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=aVazLraJ8ns",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "hedshot",
+"link": "https://youtu.be/TeIdaagkYNk",
+"percent": 100,
+"hz": "165*"
+}
+
+    ]
+}
