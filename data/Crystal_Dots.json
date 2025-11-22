@@ -1,0 +1,30 @@
+{
+    "id": 2271,
+    "name": "Crystal Dots",
+    "author": "Infernodrive",
+    "creators": [],
+    "verifier": "Infernodrive",
+    "verification": "https://youtu.be/KxLnggzptAI",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "hedshot",
+"link": "https://youtu.be/KxLnggzptAI",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=8cIoAKhmfdQ",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=aVazLraJ8ns (9:45)",
+"percent": 100,
+"hz": "240"
+}
+    ]
+}
