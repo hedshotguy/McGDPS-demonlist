@@ -1,0 +1,54 @@
+{
+    "id": 54,
+    "name": "Skill Issue",
+    "author": "Hedshot",
+    "creators": [],
+    "verifier": "Hedshot",
+    "verification": "https://youtu.be/MHJHvqAjjNQ",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+            {
+"user": "Frosted",
+"link": "https://www.youtube.com/watch?v=fECZyjHs9YU",
+"percent": 100,
+"hz": "165"
+},
+            {
+"user": "KMC98",
+"link": "https://www.youtube.com/watch?v=RqzNNDTNbfA",
+"percent": 100,
+"hz": "360"
+},
+                  {
+"user": "Gelforce",
+"link": "https://www.youtube.com/watch?v=83ySa44Kyh0",
+"percent": 100,
+"hz": "288"
+},
+                        {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=c8P_gl3bxLs",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=FhfHtcBl0Ik",
+"percent": 100,
+"hz": "360"
+},
+      {
+"user": "Leaffty",
+"link": "https://youtu.be/Rh4RxTlPM9I",
+"percent": 100,
+"hz": "75"
+},
+      {
+"user": "NoInternet ",
+"link": "https://youtu.be/YWT1qYdjdtU?si=9VVCG4RNogGSkTRp",
+"percent": 100,
+"hz": "360"
+}
+    ]
+}
