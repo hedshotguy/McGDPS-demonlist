@@ -1,0 +1,24 @@
+{
+    "id": 1936,
+    "name": "X",
+    "author": "Lonhi",
+    "creators": [],
+    "verifier": "Lonhi",
+    "verification": "https://www.youtube.com/watch?v=DmUQz1YtC3s",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+      {
+"user": "Hedshot",
+"link": "https://www.youtube.com/watch?v=SP9Cu0X-T7A",
+"percent": 100,
+"hz": "360"
+},
+            {
+"user": "Scattered",
+"link": "https://youtu.be/pfhd2Ijii60",
+"percent": 100,
+"hz": "240"
+}
+    ]
+}
