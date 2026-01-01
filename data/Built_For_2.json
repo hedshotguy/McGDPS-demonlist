@@ -1,0 +1,48 @@
+{
+    "id": 1557,
+    "name": "Built For Two",
+    "author": "ItzJeef",
+    "creators": [],
+    "verifier": "ItzJeef",
+    "verification": "https://youtu.be/zBAgI5u2tQY",
+    "percentToQualify": 52,
+    "password": "Free to copy",
+    "records": [
+{
+"user": "hedshot",
+"link": "https://youtu.be/jJ1woBA8HAo",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w6PHGWXjgpA",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Leaffty",
+"link": "https://youtu.be/RAahZXZUkqM",
+"percent": 100,
+"hz": "75"
+},
+      {
+"user": "mcdonda",
+"link": "https://youtu.be/zBAgI5u2tQY",
+"percent": 100,
+"hz": "60"
+},
+      {
+"user": "LuhFrosted",
+"link": "https://www.youtube.com/watch?v=EMPtBAIKgmM",
+"percent": 100,
+"hz": "deafult"
+},
+      {
+"user": "storm",
+"link": "https://www.youtube.com/watch?v=9DmMmVUasA0",
+"percent": 100,
+"hz": "144"
+}
+    ]
+}
