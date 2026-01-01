@@ -1,0 +1,42 @@
+{
+    "id": 1077,
+    "name": "Water Circles",
+    "author": "Vicdash78",
+    "creators": [],
+    "verifier": "Vicdash78",
+    "verification": "https://www.youtube.com/watch?v=MUbztX2LbIQ",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=CmW08CKVzVI",
+"percent": 100,
+"hz": "360"
+},
+              {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=hyn36Cj00PM",
+"percent": 100,
+"hz": "360"
+},
+                    {
+"user": "Scattered",
+"link": "https://youtu.be/RtnB4EVntXo",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "Leaffty",
+"link": "https://youtu.be/d6HeAjPJOWw",
+"percent": 100,
+"hz": "75"
+},
+      {
+"user": "storm",
+"link": "https://www.youtube.com/watch?v=9DmMmVUasA0",
+"percent": 100,
+"hz": "144"
+}
+    ]
+}
