@@ -1,0 +1,30 @@
+{
+    "id": 1469,
+    "name": "Timembore",
+    "author": "Time",
+    "creators": [],
+    "verifier": "Time",
+    "verification": "https://youtu.be/2MCCRtre8NE",
+    "percentToQualify": 52,
+    "password": "Free to copy",
+    "records": [
+        {
+"user": "hedshot",
+"link": "https://youtu.be/2MCCRtre8NE",
+"percent": 100,
+"hz": "360"
+},
+        {
+"user": "Luhfrosted",
+"link": "https://www.youtube.com/watch?v=-lhlg4GMtvk",
+"percent": 100,
+"hz": "60"
+},
+      {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w9pVnm78Fe4",
+"percent": 100,
+"hz": "240"
+}
+    ]
+}
