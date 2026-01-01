@@ -8,5 +8,42 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+                {
+"user": "Frosted",
+"link": "https://www.youtube.com/watch?v=--y8emedbiU",
+"percent": 100,
+"hz": "60"
+},
+        {
+"user": "Leaffty",
+"link": "https://youtu.be/0HXGhNiMWNg",
+"percent": 100,
+"hz": "75"
+},
+        {
+"user": "hedshot",
+"link": "https://youtu.be/EPNazizmhjc",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "Scattered",
+"link": "https://www.youtube.com/watch?v=w6PHGWXjgpA",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "NoInternet",
+"link": "https://youtu.be/3YC2KM5Ojbg",
+"percent": 100,
+"hz": "360"
+},
+
+        {
+"user": "Spooxer",
+"link": "https://youtu.be/-mVnINec0p4",
+"percent": 100,
+"hz": "144"
+}
     ]
 }
