@@ -8,6 +8,65 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
-
+                {
+"user": "Gelforce",
+"link": "https://www.youtube.com/watch?v=83ySa44Kyh0",
+"percent": 100,
+"hz": "288"
+},
+                        {
+"user": "Tucosifo",
+"link": "https://www.youtube.com/watch?v=99Sj4lYqZe4",
+"percent": 100,
+"hz": "360"
+},
+                                {
+"user": "Hedshot",
+"link": "https://youtu.be/BWMxOLSvsmY",
+"percent": 100,
+"hz": "360"
+},
+                                        {
+"user": "Blasters",
+"link": "https://www.youtube.com/watch?v=jMUG5K3Zhj0&ab_channel=TraifkckCone",
+"percent": 100,
+"hz": "60"
+},
+        {
+"user": "Leaffty",
+"link": "https://youtu.be/eu1hne8Fxi8",
+"percent": 100,
+"hz": "75"
+},
+        {
+"user": "LuhFrosted",
+"link": "https://www.youtube.com/watch?v=EMPtBAIKgmM",
+"percent": 100,
+"hz": "60"
+},
+        {
+"user": "Tornabro",
+"link": "https://www.youtube.com/watch?v=OfissjGUIe4",
+"percent": 100,
+"hz": "240"
+},
+        {
+"user": "infernodrive",
+"link": "https://www.youtube.com/live/DD020Y23vOA?si=Q0T3kzF3VwbCsZ1G&t=429",
+"percent": 100,
+"hz": "60Hz CBF"
+},
+        {
+"user": "Skechy",
+"link": "https://youtu.be/OD_r7vQK8UQ",
+"percent": 100,
+"hz": "144"
+},
+        {
+"user": "ColaJ",
+"link": "https://www.youtube.com/watch?v=tzhcmA-iSps",
+"percent": 100,
+"hz": "75hz + cbf"
+}
     ]
 }
