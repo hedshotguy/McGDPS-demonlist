@@ -1,0 +1,24 @@
+{
+    "id": 2443,
+    "name": "Blackwhite V2",
+    "author": "Colorshorts",
+    "creators": [],
+    "verifier": "Colorshorts",
+    "verification": "https://www.youtube.com/watch?v=MUbztX2LbIQ",
+    "percentToQualify": 52,
+    "password": "Free to copy",
+    "records": [
+{
+"user": "Scattered",
+"link": "https://youtu.be/-UobL6l4YTw",
+"percent": 100,
+"hz": "240"
+},
+      {
+"user": "hedshot",
+"link": "https://youtu.be/nnPrEd3BlXU",
+"percent": 100,
+"hz": "165*"
+}
+    ]
+}
