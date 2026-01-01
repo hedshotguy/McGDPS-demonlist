@@ -1,0 +1,30 @@
+{
+    "id": 1432,
+    "name": "Azurite",
+    "author": "Tucosifo",
+    "creators": [],
+    "verifier": "Tucosifo",
+    "verification": "https://www.youtube.com/watch?v=g5hLjN4ls6k",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=zQrrECeQPr4",
+"percent": 100,
+"hz": "360"
+},
+      {
+"user": "Scattered"
+"link": "https://youtu.be/uCKL5NOTOSY"
+"percent": 100
+"hz": "240"
+},
+      {
+"user": "Leaffty",
+"link": "https://youtu.be/bJjGoV93Odk",
+"percent": 100,
+"hz": "75"
+}
+    ]
+}
