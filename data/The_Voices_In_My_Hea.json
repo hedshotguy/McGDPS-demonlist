@@ -8,6 +8,36 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+                {
+"user": "Slopes",
+"link": "https://youtu.be/WmxNHTZ6lU0",
+"percent": 100,
+"hz": "240"
+},
+                        {
+"user": "Scattered",
+"link": "https://youtu.be/zDVoBECPZVs",
+"percent": 100,
+"hz": "240"
+},
+                                {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=SP9Cu0X-T7A",
+"percent": 100,
+"hz": "360"
+},
+        {
+"user": "Leaffty",
+"link": "https://youtu.be/vzdW6ZG36Eo",
+"percent": 100,
+"hz": "75"
+},
+        {
+"user": "Tornabro",
+"link": "https://youtu.be/s0xHz4eu-Bs?t=172",
+"percent": 100,
+"hz": "240"
+}
 
     ]
 }
