@@ -7,7 +7,7 @@
     {
         "role": "admin",
         "name": "Scattered",
-        "link": "https://www.youtube.com/"
+        "link": ""
     },
     {
         "role": "admin",
@@ -17,12 +17,17 @@
     {
         "role": "helper",
         "name": "No Internet",
-        "link": "https://www.youtube.com/"
+        "link": ""
     },
         {
         "role": "helper",
         "name": "Skechy",
-        "link": "https://www.youtube.com/"
+        "link": ""
+    },
+            {
+        "role": "helper",
+        "name": "Leaf",
+        "link": ""
     }
 
 ]
