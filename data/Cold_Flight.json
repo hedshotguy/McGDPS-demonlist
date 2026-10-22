@@ -3,8 +3,8 @@
     "name": "Cold Flight",
     "author": "Pati",
     "creators": [],
-    "verifier": "hedshot",
-    "verification": "https://www.youtube.com/watch?v=URmGAAtC1Bk",
+    "verifier": "ChikenJou",
+    "verification": "https://www.youtube.com/watch?v=wfQMaszsKFE",
     "percentToQualify": 60,
     "password": "Free to copy",
     "records": [
@@ -19,7 +19,12 @@
 "link": "https://youtu.be/Y0Bl0DNwRMQ",
 "percent": 100,
 "hz": "240"
+},
+        {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=URmGAAtC1Bk",
+"percent": 100,
+"hz": "240"
 }
-
     ]
 }
