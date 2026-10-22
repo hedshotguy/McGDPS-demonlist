@@ -8,6 +8,12 @@
     "percentToQualify": 60,
     "password": "Free to copy",
     "records": [
+                {
+"user": "hedshot",
+"link": "https://www.youtube.com/watch?v=URmGAAtC1Bk",
+"percent": 100,
+"hz": "240"
+},
         {
 "user": "Decin",
 "link": "https://youtu.be/grZ59niJS80?si=067e2_ne9kotrLDg",
@@ -17,12 +23,6 @@
         {
 "user": "Scattered",
 "link": "https://youtu.be/Y0Bl0DNwRMQ",
-"percent": 100,
-"hz": "240"
-},
-        {
-"user": "hedshot",
-"link": "https://www.youtube.com/watch?v=URmGAAtC1Bk",
 "percent": 100,
 "hz": "240"
 }
